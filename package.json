@@ -1,0 +1,19 @@
+{
+  "name": "deep-path",
+  "version": "0.0.1",
+  "description": "Deep string paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertpage/deep-path.git"
+  },
+  "author": "Robert Easley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertpage/deep-path/issues"
+  },
+  "homepage": "https://github.com/robertpage/deep-path#readme"
+}

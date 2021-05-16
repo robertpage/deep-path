@@ -25,6 +25,11 @@ let name = obj[firstName(0)];
 obj[firstName(0)] = "Jane";
 ```
 
+To install"
+```
+npm install https://github.com/robertpage/deep-path.git
+```
+
 To use import deepPath then:
 ```
 const obj = deepPath({
